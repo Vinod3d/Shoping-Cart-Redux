@@ -19,6 +19,7 @@ function App() {
       <Navbar/>
       <CartContainer/>
     </main>
+    //redux-thunk
   )
 }
 export default App;
